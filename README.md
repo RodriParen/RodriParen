@@ -1,5 +1,5 @@
 ## Hola, Mi nombre es Rodrigo Vargas 👋
-#### 💻 Software engineer & Fullstack
+#### 💻 Analistics QA & Cybersecurity
 Soy ingeniero de software profesional desde 2019.
 
 He trabajado en distintas áreas de programación y de administración, actualmente me he dedicado solamente al testeo de datos o aplicaciones. También he trabajado con distintos lenguajes de la programación o sistemas. He desarrollado mas de 50 proyectos universitarios y cumplido con diferentes metodologías.
