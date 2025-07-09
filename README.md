@@ -1,4 +1,4 @@
-## Hola, Mi nombre es Rodrigo Vargas 👋
+## Hola, Mi nombre es Nico Vargas 👋
 #### 💻 Analytics QA & Cybersecurity
 Soy ingeniero de software profesional desde 2019.
 
